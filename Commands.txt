@@ -1,0 +1,13 @@
+Terminal on Jupyter Lab
+
+cd "Desktop"
+ls
+cd "GitRepo"
+ls
+cd "GeoPython_Exercise_1"
+ls
+#Only do this when code is modified
+git add "whatever file name with it's extension (example: .md)"
+git commit -m "message to recognise the change in github"
+git push
+git status - to check for changes
